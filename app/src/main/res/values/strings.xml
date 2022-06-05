@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ConnectMeProject</string>
+    <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_password_again">Enter your password again</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="connectme">ConnectMe</string>
+    <string name="title_activity_learn">Learn</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_translate">Translate</string>
+    <string name="speak_to_text">Speak to Text</string>
+    <string name="hello_what_s_up">Hello, What\'s up?</string>
+    <string name="voiceicon">voiceIcon</string>
+    <string name="result">RESULT</string>
+    <string name="translate">Translate</string>
+</resources>
